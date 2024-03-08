@@ -121,15 +121,9 @@ SES企業で約4年半にわたり、各クライアント先での作業を行�
 ・VBA
 #### 【学習中】
 
-・Ruby
+・Ruby(Ruby on Rails)
 
-・Ruby on Rails
-
-・Python
-
-・Flask
-
-・Django
+・Python(Flask,Django)
 
 ・RSpec
 
