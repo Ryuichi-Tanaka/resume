@@ -8,41 +8,24 @@
 
 ### 開発手法
 
-xxx
+ウォーターフォール
 
 ### 言語
 
-xxx
+Java
+
+PHP
 
 ### フレームワーク等
 
-xxx
+springBoot
 
-### 通信プロトコル
-
-xxx
+CokePHP
 
 ### RDB
 
-xxx
+PostgreSQL
 
-### クラウド
-
-#### AWS
-
-xxx
-
-#### Google Cloud
-
-xxx
-
-### SaaS/PaaS
-
-xxx
-
-### その他
-
-xxx
 
 ## 職務経歴詳細
 
