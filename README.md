@@ -2,9 +2,6 @@
 
 ## 意欲・興味
 
-- xxx
-
-## スキル
 
 ### 開発手法
 
@@ -125,11 +122,11 @@ SES企業で約4年半にわたり、各クライアント先での作業を行�
 ・RPA(PowerAutomate、AutomationAnywere)
 
 ・VBA
-#### 学習中
+#### 【学習中】
 
 ・Ruby
 
-・Ruby on rails
+・Ruby on Rails
 
 ・Python
 
