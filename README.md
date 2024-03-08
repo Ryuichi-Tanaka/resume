@@ -115,7 +115,27 @@ SES企業で約4年半にわたり、各クライアント先での作業を行�
 ・PHP7技術者認定初級）（20xx年)
 
 ## 【パソコンスキル】
-Word、Excel、PowerPoint、RPA(PowerAutomate、AutomationAnywere)、VBA
+
+・Word
+
+・Excel
+
+・PowerPoint
+
+・RPA(PowerAutomate、AutomationAnywere)
+
+・VBA
+#### 学習中
+
+・Ruby
+
+・Ruby on rails
+
+・Python
+
+・Flask
+
+・Django
 
 ## 【自己PR】
 
