@@ -100,9 +100,9 @@ SES企業で約4年半にわたり、各クライアント先での作業を行�
 ・VBA
 #### 【学習中】
 
-・Ruby(Ruby on Rails)
+・Ruby(Ruby on Rails) プログラミングスクール(RUNTEQ)で学習中
 
-・Python(Flask,Django)
+・Python(Flask,Django) 職業訓練校で学習中（Flask,Djangoは自走して学習）
 
 ・RSpec
 
