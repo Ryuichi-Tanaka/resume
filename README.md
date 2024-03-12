@@ -85,7 +85,7 @@ SES企業で約4年間、各クライアント先での作業を行い運用か�
 
 ・Ruby(Ruby on Rails) プログラミングスクール(RUNTEQ)で学習中
 
-・Python(Flask,Django) 職業訓練校で学習中（Flask,Djangoは自走して学習）
+・Python(Flask,Django) 職業訓練校で学習中（Flask,Djangoは自走して学習中）
 
 ・RSpec
 
